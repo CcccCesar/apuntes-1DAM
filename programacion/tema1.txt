@@ -1,4 +1,5 @@
-Tema 1:IntroducciÛn a la programaciÛn
+Tema 1:Introducci√≥n a la programaci√≥n
 -Algoritmos
 -Diagramas de flujo
 -Estructuas de control: if, while, for.
+-Lenguajes de programaci√≥n.
