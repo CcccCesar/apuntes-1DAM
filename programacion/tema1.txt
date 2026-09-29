@@ -1,1 +1,4 @@
-"Tema 1: Introducci¢n a la programaci¢n -Algoritmos -Diagramas de flujo" 
+Tema 1:Introducción a la programación
+-Algoritmos
+-Diagramas de flujo
+-Estructuas de control: if, while, for
